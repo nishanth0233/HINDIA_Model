@@ -6,8 +6,13 @@ Please do note that to run this model you need to have a high computational reso
 order to run the code files:
 
 1.data_preparation.py
+
 2.tokenizer.py
+
 3.model_definition.py
+
 4.model_training.py
+
 5.evaluate_model.py
+
 6.predict_sentences.py
